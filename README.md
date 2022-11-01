@@ -31,7 +31,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=BrightyJijiAbraham&theme=transparent&hide_border=true&fire=DD0000&ring=DD6E00&currStreakLabel=17DDA1" alt="Brighty Jiji Abraham" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=BrightyJijiAbraham&theme=dark&hide_border=true&fire=DD0000&ring=DD6E00&currStreakLabel=17DDA1" alt="Brighty Jiji Abraham" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=BrightyJijiAbraham&count_private=true&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
